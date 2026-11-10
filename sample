@@ -1,0 +1,28 @@
+My First GitHub Project
+Introduction
+
+Welcome to my first GitHub project! This exercise demonstrates how to use Markdown and GitHub.
+
+Project Image
+
+!GitHub Logo
+
+Code Example
+
+Here is a simple Python example:
+
+python
+def hello():
+    print("Hello, GitHub!")
+
+hello()
+
+Task List
+Create a branch
+Add a file
+Commit changes
+Open a pull request
+Merge the pull request
+Conclusion
+
+I've learned how to create branches, commit files, use Markdown, and collaborate through pull requests.
